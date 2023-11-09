@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1050230330137",
+    "firebase_url": "https://newbiestate-57f33-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newbiestate-57f33",
+    "storage_bucket": "newbiestate-57f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050230330137:android:beef4a91ca0fe4a4efab88",
+        "android_client_info": {
+          "package_name": "com.example.newbie_state"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzhIH6YPlOsDOD0K1PEJE9J0DVMxGQfkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
